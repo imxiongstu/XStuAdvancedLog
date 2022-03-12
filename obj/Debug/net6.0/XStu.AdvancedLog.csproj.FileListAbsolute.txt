@@ -1,0 +1,11 @@
+D:\XiongLianYu\AbpModule\XStu.AdvancedLog\bin\Debug\net6.0\XStu.AdvancedLog.deps.json
+D:\XiongLianYu\AbpModule\XStu.AdvancedLog\bin\Debug\net6.0\XStu.AdvancedLog.dll
+D:\XiongLianYu\AbpModule\XStu.AdvancedLog\bin\Debug\net6.0\ref\XStu.AdvancedLog.dll
+D:\XiongLianYu\AbpModule\XStu.AdvancedLog\bin\Debug\net6.0\XStu.AdvancedLog.pdb
+D:\XiongLianYu\AbpModule\XStu.AdvancedLog\obj\Debug\net6.0\XStu.AdvancedLog.GeneratedMSBuildEditorConfig.editorconfig
+D:\XiongLianYu\AbpModule\XStu.AdvancedLog\obj\Debug\net6.0\XStu.AdvancedLog.AssemblyInfoInputs.cache
+D:\XiongLianYu\AbpModule\XStu.AdvancedLog\obj\Debug\net6.0\XStu.AdvancedLog.AssemblyInfo.cs
+D:\XiongLianYu\AbpModule\XStu.AdvancedLog\obj\Debug\net6.0\XStu.AdvancedLog.csproj.CoreCompileInputs.cache
+D:\XiongLianYu\AbpModule\XStu.AdvancedLog\obj\Debug\net6.0\XStu.AdvancedLog.dll
+D:\XiongLianYu\AbpModule\XStu.AdvancedLog\obj\Debug\net6.0\ref\XStu.AdvancedLog.dll
+D:\XiongLianYu\AbpModule\XStu.AdvancedLog\obj\Debug\net6.0\XStu.AdvancedLog.pdb

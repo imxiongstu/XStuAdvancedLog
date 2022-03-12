@@ -1,0 +1,12 @@
+D:\XiongLianYu\AbpModule\Angleyes.AdvancedLog\bin\Debug\net6.0\Angleyes.AdvancedLog.deps.json
+D:\XiongLianYu\AbpModule\Angleyes.AdvancedLog\bin\Debug\net6.0\Angleyes.AdvancedLog.dll
+D:\XiongLianYu\AbpModule\Angleyes.AdvancedLog\bin\Debug\net6.0\ref\Angleyes.AdvancedLog.dll
+D:\XiongLianYu\AbpModule\Angleyes.AdvancedLog\bin\Debug\net6.0\Angleyes.AdvancedLog.pdb
+D:\XiongLianYu\AbpModule\Angleyes.AdvancedLog\obj\Debug\net6.0\Angleyes.AdvancedLog.csproj.AssemblyReference.cache
+D:\XiongLianYu\AbpModule\Angleyes.AdvancedLog\obj\Debug\net6.0\Angleyes.AdvancedLog.GeneratedMSBuildEditorConfig.editorconfig
+D:\XiongLianYu\AbpModule\Angleyes.AdvancedLog\obj\Debug\net6.0\Angleyes.AdvancedLog.AssemblyInfoInputs.cache
+D:\XiongLianYu\AbpModule\Angleyes.AdvancedLog\obj\Debug\net6.0\Angleyes.AdvancedLog.AssemblyInfo.cs
+D:\XiongLianYu\AbpModule\Angleyes.AdvancedLog\obj\Debug\net6.0\Angleyes.AdvancedLog.csproj.CoreCompileInputs.cache
+D:\XiongLianYu\AbpModule\Angleyes.AdvancedLog\obj\Debug\net6.0\Angleyes.AdvancedLog.dll
+D:\XiongLianYu\AbpModule\Angleyes.AdvancedLog\obj\Debug\net6.0\ref\Angleyes.AdvancedLog.dll
+D:\XiongLianYu\AbpModule\Angleyes.AdvancedLog\obj\Debug\net6.0\Angleyes.AdvancedLog.pdb

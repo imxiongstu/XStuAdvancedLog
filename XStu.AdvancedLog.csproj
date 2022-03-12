@@ -1,0 +1,14 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+	<PropertyGroup>
+		<TargetFramework>net6.0</TargetFramework>
+		<ImplicitUsings>enable</ImplicitUsings>
+		<RootNamespace>XStuAdvancedLog</RootNamespace>
+	</PropertyGroup>
+
+	<ItemGroup>
+		<PackageReference Include="Volo.Abp.Core" Version="5.1.4" />
+		<PackageReference Include="Volo.Abp.EntityFrameworkCore" Version="5.1.4" />
+	</ItemGroup>
+
+</Project>
