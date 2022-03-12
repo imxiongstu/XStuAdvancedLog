@@ -7,6 +7,10 @@
 	</PropertyGroup>
 
 	<ItemGroup>
+	  <None Remove="README.md" />
+	</ItemGroup>
+
+	<ItemGroup>
 		<PackageReference Include="Volo.Abp.Core" Version="5.1.4" />
 		<PackageReference Include="Volo.Abp.EntityFrameworkCore" Version="5.1.4" />
 	</ItemGroup>
