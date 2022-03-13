@@ -4050,27 +4050,27 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\安之眼\\.nuget\\packages\\": {}
+    "D:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackagesCache": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\XiongLianYu\\AbpModule\\XStu.AdvancedLog\\XStu.AdvancedLog.csproj",
+      "projectUniqueName": "C:\\Users\\aoyun\\Desktop\\AdvancedLog\\XStuAdvancedLog\\XStu.AdvancedLog.csproj",
       "projectName": "XStu.AdvancedLog",
-      "projectPath": "D:\\XiongLianYu\\AbpModule\\XStu.AdvancedLog\\XStu.AdvancedLog.csproj",
-      "packagesPath": "C:\\Users\\安之眼\\.nuget\\packages\\",
-      "outputPath": "D:\\XiongLianYu\\AbpModule\\XStu.AdvancedLog\\obj\\",
+      "projectPath": "C:\\Users\\aoyun\\Desktop\\AdvancedLog\\XStuAdvancedLog\\XStu.AdvancedLog.csproj",
+      "packagesPath": "D:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackagesCache",
+      "outputPath": "C:\\Users\\aoyun\\Desktop\\AdvancedLog\\XStuAdvancedLog\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\安之眼\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "C:\\Users\\aoyun\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "http://192.168.1.53:8085/nuget": {},
+        "D:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {

@@ -1,0 +1,142 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\aoyun\\Desktop\\AdvancedLog\\ConsoleTest\\ConsoleTest.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\aoyun\\Desktop\\AdvancedLog\\ConsoleTest\\ConsoleTest.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\aoyun\\Desktop\\AdvancedLog\\ConsoleTest\\ConsoleTest.csproj",
+        "projectName": "ConsoleTest",
+        "projectPath": "C:\\Users\\aoyun\\Desktop\\AdvancedLog\\ConsoleTest\\ConsoleTest.csproj",
+        "packagesPath": "D:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackagesCache",
+        "outputPath": "C:\\Users\\aoyun\\Desktop\\AdvancedLog\\ConsoleTest\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\aoyun\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "D:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\aoyun\\Desktop\\AdvancedLog\\XStuAdvancedLog\\XStu.AdvancedLog.csproj": {
+                "projectPath": "C:\\Users\\aoyun\\Desktop\\AdvancedLog\\XStuAdvancedLog\\XStu.AdvancedLog.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Volo.Abp.Autofac": {
+              "target": "Package",
+              "version": "[5.1.4, )"
+            },
+            "Volo.Abp.Core": {
+              "target": "Package",
+              "version": "[5.1.4, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\aoyun\\Desktop\\AdvancedLog\\XStuAdvancedLog\\XStu.AdvancedLog.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\aoyun\\Desktop\\AdvancedLog\\XStuAdvancedLog\\XStu.AdvancedLog.csproj",
+        "projectName": "XStu.AdvancedLog",
+        "projectPath": "C:\\Users\\aoyun\\Desktop\\AdvancedLog\\XStuAdvancedLog\\XStu.AdvancedLog.csproj",
+        "packagesPath": "D:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackagesCache",
+        "outputPath": "C:\\Users\\aoyun\\Desktop\\AdvancedLog\\XStuAdvancedLog\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\aoyun\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "D:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Volo.Abp.Core": {
+              "target": "Package",
+              "version": "[5.1.4, )"
+            },
+            "Volo.Abp.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.1.4, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

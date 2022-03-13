@@ -9,3 +9,15 @@ D:\XiongLianYu\AbpModule\XStu.AdvancedLog\obj\Debug\net6.0\XStu.AdvancedLog.cspr
 D:\XiongLianYu\AbpModule\XStu.AdvancedLog\obj\Debug\net6.0\XStu.AdvancedLog.dll
 D:\XiongLianYu\AbpModule\XStu.AdvancedLog\obj\Debug\net6.0\ref\XStu.AdvancedLog.dll
 D:\XiongLianYu\AbpModule\XStu.AdvancedLog\obj\Debug\net6.0\XStu.AdvancedLog.pdb
+C:\Users\aoyun\Desktop\AdvancedLog\XStuAdvancedLog\bin\Debug\net6.0\XStu.AdvancedLog.deps.json
+C:\Users\aoyun\Desktop\AdvancedLog\XStuAdvancedLog\bin\Debug\net6.0\XStu.AdvancedLog.dll
+C:\Users\aoyun\Desktop\AdvancedLog\XStuAdvancedLog\bin\Debug\net6.0\ref\XStu.AdvancedLog.dll
+C:\Users\aoyun\Desktop\AdvancedLog\XStuAdvancedLog\bin\Debug\net6.0\XStu.AdvancedLog.pdb
+C:\Users\aoyun\Desktop\AdvancedLog\XStuAdvancedLog\obj\Debug\net6.0\XStu.AdvancedLog.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aoyun\Desktop\AdvancedLog\XStuAdvancedLog\obj\Debug\net6.0\XStu.AdvancedLog.AssemblyInfoInputs.cache
+C:\Users\aoyun\Desktop\AdvancedLog\XStuAdvancedLog\obj\Debug\net6.0\XStu.AdvancedLog.AssemblyInfo.cs
+C:\Users\aoyun\Desktop\AdvancedLog\XStuAdvancedLog\obj\Debug\net6.0\XStu.AdvancedLog.csproj.CoreCompileInputs.cache
+C:\Users\aoyun\Desktop\AdvancedLog\XStuAdvancedLog\obj\Debug\net6.0\XStu.AdvancedLog.dll
+C:\Users\aoyun\Desktop\AdvancedLog\XStuAdvancedLog\obj\Debug\net6.0\ref\XStu.AdvancedLog.dll
+C:\Users\aoyun\Desktop\AdvancedLog\XStuAdvancedLog\obj\Debug\net6.0\XStu.AdvancedLog.pdb
+C:\Users\aoyun\Desktop\AdvancedLog\XStuAdvancedLog\obj\Debug\net6.0\XStu.AdvancedLog.csproj.AssemblyReference.cache

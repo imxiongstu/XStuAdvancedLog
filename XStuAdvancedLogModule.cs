@@ -2,8 +2,8 @@
 using System.Reflection;
 using Volo.Abp;
 using Volo.Abp.Modularity;
-using XStuAdvancedLog.Attributes;
 using XStuAdvancedLog.Interceptors;
+using XStuAdvancedLog.Interfaces;
 
 namespace XStuAdvancedLog
 {
@@ -12,15 +12,19 @@ namespace XStuAdvancedLog
     {
         public override void PreConfigureServices(ServiceConfigurationContext context)
         {
-            /*
-             * 给所有标记了AdvancedLog特性的类，添加拦截器
-             */
             context.Services.OnRegistred(context =>
             {
-                if (context.ImplementationType.GetCustomAttribute<AdvancedLogAttribute>() != null)
+                var aaaa = context.ImplementationType.GetTypeInfo();
+                Console.WriteLine(context.ImplementationType.GetTypeInfo());
+                if (context.ImplementationType == typeof(IAdvancedLogHandler))
                 {
-                    context.Interceptors.TryAdd<AdvacedLogInterceptor>();
+                    Console.WriteLine(111111);
+                    var aaa = context.ImplementationType;
                 }
+                //if (context.ImplementationType.GetCustomAttribute<AdvancedLogAttribute>() != null)
+                //{
+                //    context.Interceptors.TryAdd<AdvacedLogInterceptor>();
+                //}
             });
         }
     }

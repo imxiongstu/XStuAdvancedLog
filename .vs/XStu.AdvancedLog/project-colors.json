@@ -5,7 +5,22 @@
       "ProjectGuid": "d3f7af4c-3a66-4d02-a51c-94026fdb53e2",
       "DisplayName": "XStu.AdvancedLog",
       "ColorIndex": 0
+    },
+    "cb257b87-b16b-454c-8fe9-4c2bbc65a633": {
+      "ProjectGuid": "cb257b87-b16b-454c-8fe9-4c2bbc65a633",
+      "DisplayName": "ConsoleTest",
+      "ColorIndex": 1
+    },
+    "6606a883-88dc-4d3c-b782-2e7359fe54ff": {
+      "ProjectGuid": "6606a883-88dc-4d3c-b782-2e7359fe54ff",
+      "DisplayName": "ConsoleTest",
+      "ColorIndex": 2
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "杂项文件",
+      "ColorIndex": -1
     }
   },
-  "NextColorIndex": 1
+  "NextColorIndex": 3
 }

@@ -7,7 +7,7 @@ using Volo.Abp.ObjectExtending;
 
 namespace XStuAdvancedLog.Arguments
 {
-    public class AdvancedLogArgs : ExtensibleObject
+    public class FromMethodArgs : ExtensibleObject
     {
     }
 }
